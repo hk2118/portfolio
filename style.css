@@ -1,0 +1,46 @@
+body{
+    width:100vw;
+    overflow-x: hidden;
+}
+html{
+    scroll-behavior: smooth;
+}
+.contact-link{
+    color: white;
+    text-decoration: none;
+}
+.img-responsive {
+    max-height: 250px; 
+    
+   
+}
+.skillssethtml{
+    width:95%;
+    border-bottom: 5px solid red;
+}
+.skillssetcss{
+    width:85%;
+    border-bottom: 5px solid red;
+}
+.skillssetjs{
+    width:75%;
+    border-bottom: 5px solid red;
+}
+.skillssetbs{
+    width:80%;
+    border-bottom: 5px solid red;
+}
+.fa-code,.fa-css3-alt,.fa-js-square,.fa-bootstrap{
+    color:red;
+    font-size: 20px;
+    padding:10px ;
+}
+ * {
+    /* overflow-x: hidden; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  } 
+#animate{
+    border-right:1px solid #4F4F4F;
+}
